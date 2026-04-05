@@ -1,0 +1,12 @@
+{
+  "name": "Process_temperature_K",
+  "label": "Process Temperature",
+  "unit": "K",
+  "min": 305.7,
+  "max": 313.8,
+  "mean": 310.00556,
+  "median": 310.1,
+  "std": 1.4837342191657419,
+  "normal_low": 307.7,
+  "normal_high": 312.5
+}

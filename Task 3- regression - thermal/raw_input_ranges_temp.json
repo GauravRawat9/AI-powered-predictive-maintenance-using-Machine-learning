@@ -1,0 +1,39 @@
+{
+  "Air_temperature_K": {
+    "min": 295.3,
+    "max": 304.5,
+    "default": 300.00493,
+    "step": 0.1,
+    "label": "Air Temperature (K)"
+  },
+  "Rotational_speed_rpm": {
+    "min": 1168.0,
+    "max": 2886.0,
+    "default": 1538.7761,
+    "step": 1.0,
+    "label": "Rotational Speed (rpm)"
+  },
+  "Torque_Nm": {
+    "min": 3.8,
+    "max": 76.6,
+    "default": 39.986909999999995,
+    "step": 0.1,
+    "label": "Torque (Nm)"
+  },
+  "Tool_wear_min": {
+    "min": 0.0,
+    "max": 253.0,
+    "default": 107.951,
+    "step": 1.0,
+    "label": "Tool Wear (min)"
+  },
+  "Type": {
+    "options": [
+      "L",
+      "M",
+      "H"
+    ],
+    "default": "M",
+    "label": "Machine Type"
+  }
+}

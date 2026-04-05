@@ -1,0 +1,23 @@
+[
+  "Air_temperature_K",
+  "Process_temperature_K",
+  "Rotational_speed_rpm",
+  "Torque_Nm",
+  "Tool_wear_min",
+  "Type_num",
+  "strain_limit",
+  "temp_diff",
+  "torque_rpm_ratio",
+  "thermal_stress",
+  "torque_type_ratio",
+  "cooling_efficiency",
+  "speed_temp",
+  "torque_sq",
+  "speed_sq",
+  "temp_per_speed",
+  "torque_per_temp",
+  "wear_torque",
+  "wear_speed",
+  "strain_ratio",
+  "stress_acc_proxy"
+]

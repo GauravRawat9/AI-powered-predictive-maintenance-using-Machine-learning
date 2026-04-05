@@ -1,0 +1,35 @@
+{
+  "model": "CatBoostRegressor",
+  "task": "Process Temperature Regression",
+  "target": "Process_temperature_K",
+  "unit": "Kelvin (K)",
+  "r2": 0.798965,
+  "mae": 0.52332,
+  "rmse": 0.657459,
+  "train_size": 7500,
+  "test_size": 2500,
+  "params": {
+    "iterations": 5000,
+    "learning_rate": 0.02,
+    "depth": 6,
+    "l2_leaf_reg": 5,
+    "loss_function": "RMSE"
+  },
+  "competing_models": {
+    "XGBoost": {
+      "r2": 0.798238,
+      "mae": 0.520487,
+      "rmse": 0.658648
+    },
+    "LightGBM": {
+      "r2": 0.793709,
+      "mae": 0.528101,
+      "rmse": 0.665998
+    },
+    "Ridge": {
+      "r2": -0.001827,
+      "mae": 1.223366,
+      "rmse": 1.467675
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": "CatBoostRegressor",
+  "task": "Power Regression (W)",
+  "r2": 0.998739,
+  "mae": 12.9859,
+  "rmse": 37.5371,
+  "params": {
+    "iterations": 5000,
+    "learning_rate": 0.02,
+    "depth": 6,
+    "l2_leaf_reg": 5
+  }
+}

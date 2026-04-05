@@ -1,0 +1,17 @@
+{
+  "type_to_num": {
+    "L": 1,
+    "M": 2,
+    "H": 3
+  },
+  "type_to_strain": {
+    "L": 11000,
+    "M": 12000,
+    "H": 13000
+  },
+  "type_labels": {
+    "L": "Low (L)",
+    "M": "Medium (M)",
+    "H": "High (H)"
+  }
+}
